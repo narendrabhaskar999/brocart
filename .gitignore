@@ -1,3 +1,19 @@
 .idea/workspace.xml
 /images
 /static_images
+# You should customize this list as applicable to your project.
+ 
+# Node artifact files
+migrations
+__pycache__
+# Compiled Java class files
+*.class
+
+# compiled Python bytecode
+*.py[cod]
+
+# log files
+*.log
+
+# Package files
+*.jar
